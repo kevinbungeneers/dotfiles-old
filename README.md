@@ -24,7 +24,7 @@ and run:
 cd ~/.dotfiles && rake uninstall
 ```
 
-This will remove all the files that were copied or symlinked from the dotfiles directory from your system, including the fonts.
+This will remove all the files that were copied or symlinked from the dotfiles directory, including the fonts.
 
 ## Credits and thanks
 
